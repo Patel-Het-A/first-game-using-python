@@ -1,6 +1,6 @@
 WORD_LIST = [
     "algorithm", "function", "variable", "compile", "iterate",
-    "recursion", "binary", "array", "syntax", "pointer"
+    "recursion", "binary", "array", "structure", "pointer"
 ]
 
 def display_header(attempts):
